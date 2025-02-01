@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React Native and Aws cloud.**
 
-- 👨‍💻 All of my projects are available at [https://ashokpurohitportfolio.netlify.app/](https://ashokpurohitportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO/](ashp1201.github.io/Portfolio/)
 
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **ashokp1201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1krjQpBBR9l6nTehGN9GO2wUVXxIUw9jt/view?usp=drive_link](https://drive.google.com/file/d/1krjQpBBR9l6nTehGN9GO2wUVXxIUw9jt/view?usp=drive_link)
+- 📄 Know about my experiences [DRIVE_LINK](https://docs.google.com/document/d/18Q4Y--fOhP8JmewmDqnq5P2B4BhR7Qkn/edit?usp=sharing&ouid=103328878629922147350&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
