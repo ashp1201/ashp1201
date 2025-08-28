@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO/](ashp1201.github.io/Portfolio/)
 
-- 💬 Ask me about **Reactjs and Java**
+- 💬 Ask me about **Reactjs and Java.**
 
 - 📫 How to reach me **ashokp1201@gmail.com**
 
